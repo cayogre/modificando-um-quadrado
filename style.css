@@ -1,0 +1,18 @@
+h3{
+    width: 100%;
+    box-shadow: 5px 10px 50px navy;
+}
+.note{
+    font-size: 20px;
+}
+.janela{
+   bottom: 0;
+   position: fixed;
+   text-align: center;
+   width: 100%;
+   color: #4dff00;
+   background-color: royalblue;
+}
+canvas{
+    background-color: crimson;
+}
